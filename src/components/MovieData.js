@@ -13,5 +13,19 @@
     posterURL: 'https://www.torrent9.fm/pictures/suits-saison-1-french-hdtv.jpg',
     lienBandeAnnonce: 'https://www.youtube.com/embed/YYYYYYYYYY',
  },
+ {
+  id:3,
+      title: 'Narcos',
+      description:"Loin d’un simple biopic de Pablo Escobar, Narcos retrace la lutte acharnée des États-Unis et de la Colombie contre le cartel de la drogue de Medellín, l’organisation la plus lucrative et impitoyable de l’histoire criminelle moderne. En multipliant les points de vue — policier, politique, judiciaire et personnel — la série dépeint l’essor du trafic de cocaïne et le bras de fer sanglant engagé avec les narcotrafiquants qui contrôlent le marché avec violence et ingéniosité.Biopic de Pablo Escobar.",
+      posterURL: 'https://www.torrent9.fm/pictures/narcos-s01e01-french-hdtv.jpg',
+    lienBandeAnnonce: 'https://www.youtube.com/embed/zzzzzzz',
+    },
+    {
+      id:4,
+      title: 'Money heist ',
+      description:"Huit voleurs font une prise d'otages dans la Maison royale de la Monnaie d'Espagne, tandis qu'un génie du crime manipule la police pour mettre son plan à exécution.",
+      posterURL: 'https://www.torrent9.fm/pictures/la-casa-de-papel-s05e06-10-french-hdtv.jpg',
+      lienBandeAnnonce: 'https://www.youtube.com/embed/wwwwwww',
+    },
 ];
 export default  movies;

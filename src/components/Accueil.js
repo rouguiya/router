@@ -15,8 +15,7 @@ function Accueil() {
             <Card.Img variant="top" src={movie.posterURL} />
             <Card.Body>
               <Card.Title>{movie.title}</Card.Title>
-
-             <Link to={`/films/${movie.id}`}>Voir la description</Link>
+              <Link to={`/movies/${movie.id}`}>Voir la description</Link>
             </Card.Body>
           </Card>
         </Col>
